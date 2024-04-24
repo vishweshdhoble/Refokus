@@ -30,7 +30,7 @@ const Navbar = () => {
           )}
         </div>
       </div>
-      <Button/>
+      <Button className="" title="Start a Project"/>
     </div>
   );
 };
